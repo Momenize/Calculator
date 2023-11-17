@@ -1,2 +1,2 @@
 # Calculator
-My first ACTUAL app!
+Created with WinForms, my first ACTUAL app
